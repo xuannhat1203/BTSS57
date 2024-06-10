@@ -1,0 +1,28 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "name": "Cam Tươi",
+      "price": 12,
+      "image": "https://go-cafe.com/wp-content/uploads/2023/05/CAM-SANH-600x600-1.jpg",
+      "quantity": 10,
+      "create_at": "2024-01-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Táo lê",
+      "price": 25,
+      "image": "https://cdn.eva.vn/upload/1-2021/images/2021-01-20/tao2-1611093916-823-width600height400.jpg",
+      "quantity": 205,
+      "create_at": "2024-01-02T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Xoài",
+      "price": 1200,
+      "image": "https://vnn-imgs-f.vgcloud.vn/2019/06/01/14/tu-vu-be-9-tuoi-suyt-chet-vi-an-xoai-chuyen-gia-canh-bao-khong-an-xoai-neu-co-dau-hieu-sau.jpg",
+      "quantity": 30,
+      "create_at": "2024-01-03T10:00:00Z"
+    }
+  ]
+}
